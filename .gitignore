@@ -1,0 +1,33 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Project specific directories
+
+__pycache__/
+
+# Specific Python files
+stage.py
+crew.py
+prompt.py
+constants.py
+stream.py
+lasq.py
+
+# Python cache files
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+
+# IDE specific files (optional but recommended)
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# System files
+.DS_Store
+Thumbs.db 
